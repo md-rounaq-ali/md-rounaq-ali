@@ -45,8 +45,8 @@ A full-stack Node.js project for managing online food orders with a seamless use
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdRounaqAli&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdRounaqAli&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-rounaq-ali&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rounaq-ali&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
