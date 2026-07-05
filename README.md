@@ -26,7 +26,7 @@ I am a dedicated **Computer Science and Engineering student** at **Nalla Narasim
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects Done
 
 #### 🧠 [VoxCalc — AI Smart Calculator](https://github.com/md-rounaq-ali/VoxCalc)
 The Ultimate AI-Inspired Smart Calculator with voice-powered calculations, advanced math functions, and a premium responsive UI.
