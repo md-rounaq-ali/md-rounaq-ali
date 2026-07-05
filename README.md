@@ -59,7 +59,7 @@ Built 4 production-ready Flutter apps: Calculator, To-Do List, Stopwatch, and Ti
 #### 📲 [Cognifyz — Android Development Internship](https://github.com/md-rounaq-ali/cognifyz_android_internship)
 8 comprehensive Flutter-based Android development tasks with a unified portfolio application.
 
-#### 💻 [CodSoft — Software Development Internship](https://github.com/md-rounaq-ali/CODSOFT)
+#### 💻 [CodSoft — Android App Development Internship](https://github.com/md-rounaq-ali/CODSOFT)
 Cross-platform Flutter applications with professional-grade mobile development.
 
 #### 🌐 [Saiket Systems — Web Development Internship](https://github.com/md-rounaq-ali/Saiket-Systems-Web-Dev-Internship)
