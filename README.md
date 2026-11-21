@@ -5,7 +5,7 @@
 </p>
 
 ### 💫 About Me
-I am a dedicated **Computer Science and Engineering student** at **Nalla Narasimha Reddy Education Society's Group of Institutions** (2023-2027). I am passionate about building impactful technology solutions and have a strong foundation in **Python**, **Java**, and **C**. My interests span across **Mobile App Development**, **Data Science**, and **DevOps**.
+I am a dedicated **Computer Science and Engineering student** at **Nalla Narasimha Reddy Education Society's Group of Institutions** (2023-2027). I am passionate about building impactful technology solutions and have a strong foundation in **Python**, **Java**, and **C**. My interests span **Mobile App Development**, **Data Science**, and **DevOps**.
 
 - 🔭 I'm currently working on **Premium Mobile Applications** and **Data Science projects**.
 - 🌱 I'm currently learning **Advanced DevOps** and **Cloud Computing**.
@@ -70,12 +70,12 @@ Cross-platform Flutter applications with professional-grade mobile development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-rounaq-ali&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-rounaq-ali&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=md-rounaq-ali&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=md-rounaq-ali&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rounaq-ali&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
