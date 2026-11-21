@@ -52,14 +52,6 @@ Current Goals: Contributing to Open Source, Building Scalable Production Apps & 
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-rounaq-ali&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
@@ -106,7 +98,7 @@ Current Goals: Contributing to Open Source, Building Scalable Production Apps & 
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ <a href="https://github.com/md-rounaq-ali/weather-app">Weather Application</a></h3>
-      <p>Real-time meteorological app utilizing the OpenWeather API, live geocoding, animated weather states, and glassmorphism styling.</p>
+      <p>Real-time meteorological app utilizing OpenWeather API, live geocoding, animated weather states, and glassmorphism styling.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/REST_API-0288D1?style=flat-square" />
@@ -167,7 +159,7 @@ Current Goals: Contributing to Open Source, Building Scalable Production Apps & 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:tabrasali7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
